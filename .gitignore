@@ -6,3 +6,4 @@ target/
 .idea/
 /nbproject/private/
 /src/nbproject/private/
+/build/
