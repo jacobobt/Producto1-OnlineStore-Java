@@ -4,3 +4,5 @@
 out/
 target/
 .idea/
+/nbproject/private/
+/src/nbproject/private/
